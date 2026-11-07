@@ -1,0 +1,15 @@
+titles:
+  hero: "Hero"
+  explorer: "Explorer"
+tags:
+  welcome: "Welcome"
+  builder: "Builder"
+emojis:
+  star: "★"
+  heart: "❤"
+  fire: "🔥"
+colors:
+  gold: "#FFD700"
+  aqua: "#55FFFF"
+  pink: "#FF55FF"
+  lime: "#55FF55"

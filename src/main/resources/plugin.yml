@@ -1,0 +1,15 @@
+name: CosmeticChat
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Titles, tags, emojis, colors, and animated chat cosmetics.
+folia-supported: true
+commands:
+  cosmetic:
+    description: Manage chat cosmetics.
+    usage: /cosmetic <title|tag|emoji|color|animation|toggle|reload>
+    aliases: [cosmetics, cc]
+permissions:
+  cosmetic.admin:
+    description: Manage the server cosmetic catalog.
+    default: op
